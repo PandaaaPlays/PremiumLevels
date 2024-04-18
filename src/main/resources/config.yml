@@ -1,0 +1,31 @@
+# Use this document to configure the settings of your PremiumLevels Plugin.
+# If you require any assistance with the plugin, please contact me on discord (https://discord.com/invite/jw4hURj).
+#   _____         ___ _                 _   _
+#  |     |___ ___|  _|_|___ _ _ ___ ___| |_|_|___ ___
+#  |   --| . |   |  _| | . | | |  _| .'|  _| | . |   |
+#  |_____|___|_|_|_| |_|_  |___|_| |__,|_| |_|___|_|_|
+#                      |___|
+
+# Should the experience notification be displayed?
+display-experience-notifications: true
+
+# Should the level notification be displayed?
+display-level-notifications: true
+
+# The message displayed when a player gains experience.
+experience-notification: "&8&l[&a+%experience% exp&8&l]"
+
+# The message displayed when a player gains level(s).
+level-notification: "&2&lPrem&a&lium&8&lLev&7&lels &7&l>> &aYou have leveled-up to &2level %level%&a !"
+
+# The maximum level that a player should be able to reach.
+maximum-level: 100
+
+# The message displayed when the command provided is invalid.
+unknown-command: "&c&l[!] &cUnknown Command."
+
+# The message displayed when the sender of the command does not have the permission to execute the command.
+no-permission: "&c&l[!] &cYou do not have enough permission to do this."
+
+# The message displayed when the configuration of the plugin is reloaded.
+plugin-reload: "&2&lPrem&a&lium&8&lLev&7&lels &7&l>> &aPlugin Reloaded."

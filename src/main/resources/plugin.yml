@@ -1,0 +1,13 @@
+name: PremiumLevels
+version: 1.0.0
+author: Pandaaa
+main: ca.pandaaa.premiumlevels.PremiumLevels
+api-version: 1.16
+commands:
+  premiumlevels:
+    aliases: [pl, premiumlevels]
+    description: PremiumLevels commands.
+
+permissions:
+  premiumlevels.config:
+    default: op
